@@ -1,0 +1,26 @@
+#skills {
+    padding: 80px 40px;
+    border-top: 1px solid #ffffff18;
+}
+
+#skills h2 {
+    font-size: 14px;
+    letter-spacing: 3px;
+    color: #7c6af7;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+}
+
+.skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.skill-pill {
+    border: 1px solid #7c6af750;
+    color: #7c6af7;
+    padding: 6px 16px;
+    border-radius: 8px;
+    font-size: 14px;
+}

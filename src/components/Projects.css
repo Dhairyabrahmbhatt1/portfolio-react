@@ -1,0 +1,48 @@
+#projects {
+    padding: 80px 40px;
+    border-top: 1px solid #ffffff18;
+}
+
+#projects h2 {
+    font-size: 14px;
+    letter-spacing: 3px;
+    color: #7c6af7;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+}
+
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.project-card {
+    background: #13131a;
+    border: 1px solid #ffffff18;
+    border-radius: 12px;
+    padding: 28px;
+}
+
+.project-card h3 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.project-card p {
+    font-size: 14px;
+    color: #888888;
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+
+.project-card a {
+    font-size: 13px;
+    color: #7c6af7;
+    text-decoration: none;
+}
+
+.project-card a:hover {
+    text-decoration: underline;
+}
