@@ -4,8 +4,8 @@ function Projects() {
     const projects = [
         {
             title: 'Portfolio Website',
-            description: 'A personal portfolio website built from scratch using HTML, CSS and JavaScript. Designed with a dark modern aesthetic.',
-            link: 'https://github.com/Dhairyabrahmbhatt1/portfolio'
+            description: 'A personal portfolio website built from scratch using React. Designed with a dark modern aesthetic.',
+            link: 'https://github.com/Dhairyabrahmbhatt1/portfolio-react'
         }
     ];
 
