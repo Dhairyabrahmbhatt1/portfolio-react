@@ -10,7 +10,7 @@ function Projects() {
         {
             title: 'Hostel Management System',
             description: 'A maangement system that was built from scratch using React and Flask. Designed as a project for DBMS coarse at PDEU.',
-            link: 'https://github.com/Dhairyabrahmbhatt1/portfolio-react'
+            link: 'https://github.com/Dhairyabrahmbhatt1/Hostel-Management-System-Main'
         }
     ];
 
