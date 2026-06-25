@@ -7,6 +7,11 @@ function Projects() {
             description: 'A personal portfolio website built from scratch using React. Designed with a dark modern aesthetic.',
             link: 'https://github.com/Dhairyabrahmbhatt1/portfolio-react'
         }
+        {
+            title: 'Hostel Management System',
+            description: 'A maangement system that was built from scratch using React and Flask. Designed as a project for DBMS coarse at PDEU.',
+            link: 'https://github.com/Dhairyabrahmbhatt1/portfolio-react'
+        }
     ];
 
     return (
