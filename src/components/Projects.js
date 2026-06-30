@@ -11,6 +11,11 @@ function Projects() {
             title: 'Hostel Management System',
             description: 'A Hostel Mangement System that was built from scratch using React and Flask. Designed as a project for DBMS coarse at PDEU.',
             link: 'https://github.com/Dhairyabrahmbhatt1/Hostel-Management-System-Main'
+        },
+        {
+            title: 'Inventory Management System',
+            description: 'A python and mySQL database based inventory management system. Designed as a project for DBMS coarse at PDEU.',
+            link: 'https://github.com/Dhairyabrahmbhatt1/Inventory-Management-System/tree/main/inventory_system'
         }
     ];
 
